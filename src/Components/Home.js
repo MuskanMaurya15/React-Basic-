@@ -1,10 +1,13 @@
 import React from 'react'
-import '../CSS/Home.css'
-export default function Home() {
+// import '../CSS/Home.css'
+export default function Home(props) {
   return (
     <div>
-      <h1>This is Home Page</h1>
-      {/* <img src='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg'/> */}
+      {/* <h1>This is Home Page</h1> */}
+      {/* <h1>{props.name}</h1> */}
     </div>
   )
 }
+// let a=10;
+// console.log(a)
+

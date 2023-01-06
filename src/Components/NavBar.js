@@ -1,13 +1,13 @@
 import React from "react";
 import '../CSS/NavBar.css'
-import Home from "./Home";
-export default function NavBar() {
+import logo from '../Images/logo.png'
+export default function NavBar(props) {
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
-            Navbar
+           <img src={logo} alt='logo Image' />
           </a>
           <button
             className="navbar-toggler"
@@ -25,16 +25,18 @@ export default function NavBar() {
               <li className="nav-item">
                 <a className="nav-link active" aria-current="page" href="/Home">
                   Home
+                  {/* {props.age} */}
+              </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/">
+                {props.title}
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/">
-                  About
-                </a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/">
-                  Contact
+                  {/* Contact */}
+                  {props.phone}
                 </a>
               </li>
             
