@@ -1,0 +1,108 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(151, 252, 151)
+}
+
+.parent {
+    border: 2px solid rgb(209, 15, 15);
+    height: 320px;
+    background-color: rgb(209, 15, 15);
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 150px;
+}
+
+.para {
+    background-color: rgb(209, 15, 15);
+    font-size: 20px;
+    padding-top: 60px;
+    padding-left: 35px;
+    color: darkgray;
+}
+
+.para1 {
+    background-color: rgb(209, 15, 15);
+    padding-left: 35px;
+    color: darkgray;
+    padding-top: 10px;
+}
+
+.btn {
+    background-color: rgb(209, 15, 15);
+    padding-left: 35px;
+    color: darkgray;
+    padding-top: 10px;
+    border: 1px solid rgb(218, 208, 208);
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 50px;
+    margin-top: 25px;
+    padding-right: 40px;
+    padding-left: -10px;
+    padding-bottom: 5px;
+}
+
+.d {
+    border: 2px solid white;
+    border-radius: 6px;
+    width: 450px;
+    height: 400px;
+    margin-left: 500px;
+    margin-top: -230px;
+    background-color: white;
+    box-shadow: 5px 5px 15px 15px;
+}
+
+h2 {
+    background-color: white;
+    margin-left: 45px;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 540;
+
+}
+
+.txt1 {
+    background-color: white;
+    width: 350px;
+    height: 45px;
+    margin-top: 15px;
+    margin-left: 45px;
+    padding-left: 15px;
+    border: 1px solid rgb(218, 208, 208);
+    border-radius: 2px;
+}
+
+.txt2 {
+    background-color: white;
+    width: 350px;
+    height: 45px;
+    margin-top: 15px;
+    margin-left: 45px;
+    padding-left: 15px;
+    border: 1px solid rgb(218, 208, 208);
+    border-radius: 2px;
+}
+
+.txt3 {
+    background-color: white;
+    width: 350px;
+    height: 45px;
+    margin-top: 15px;
+    margin-left: 45px;
+    padding-left: 15px;
+    border: 1px solid rgb(218, 208, 208);
+    border-radius: 2px;
+}
+
+.r {
+    background-color: rgb(81, 78, 78);
+    margin-left: 290px;
+    margin-top: 20px;
+    color: rgb(208, 203, 203);
+    width: 120px;
+    height: 33px;
+    border: 0px solid rgb(81, 78, 78);
+    border-radius: 2px;
+}

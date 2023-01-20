@@ -1,0 +1,68 @@
+.nav-link active{
+    color: gray;
+}
+.nav-link{
+    color: gray;
+    font-size: 13px;
+}
+.btn{
+    background-color: orangered;
+    color: white;
+    margin-left: 980px;
+    border: 0px solid orangered;
+    border-radius: 5px;
+    padding-left:25px;
+    padding-right: 25px;
+    font-size: 10px;
+    margin-top: -50px;
+}
+
+.im{
+    color: rgb(23, 7, 37);
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.in{
+    color: rgb(23, 7, 37);
+    margin-left: 100px;
+    margin-top: 0px;
+    font-size: 35px;
+    font-weight: 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p{
+    color: black;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.btn2{
+    background-color: orangered;
+    color: white;
+    margin-left: 120px;
+    margin-top: 25px;
+    border: 0px solid orangered;
+    border-radius: 5px;
+    height: 40px;
+    padding-left:25px;
+    padding-right: 25px;
+    font-size: 15px;
+}
+#mk{
+    margin-left: 100px;
+    width: 50px;
+    margin-right: 200px;
+    margin-top: -80px;
+}
+.myPic{
+    width: 190px;
+    margin-left: 500px;
+    margin-top: -160px;
+    border: 0px solid white;
+    border-radius: 60px;
+    
+}
